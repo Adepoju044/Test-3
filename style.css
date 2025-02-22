@@ -22,6 +22,7 @@ body {
     gap: 2rem;
     padding: 5rem 1.65rem;
     text-align: center;
+    width: 80rem;
 }
 .review {
     display: grid;
